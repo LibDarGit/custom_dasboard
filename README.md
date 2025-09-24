@@ -1,1 +1,1 @@
-# custom_dashboard
+# For own dashboard in Odoo
